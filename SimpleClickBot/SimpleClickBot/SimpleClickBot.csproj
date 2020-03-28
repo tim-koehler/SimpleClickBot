@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>ClickBotIcon.ico</ApplicationIcon>
+    <ApplicationIcon>Images\ClickBotIcon.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <Win32Resource>
@@ -106,9 +106,6 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\ClickBotIcon.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="ClickBotIcon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
